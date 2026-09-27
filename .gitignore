@@ -52,3 +52,6 @@ bundle-size-current.json
 bundle-size-baseline.json
 bundle-composition-current.json
 bundle-composition-baseline.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
