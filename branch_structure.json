@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/next-16.3.6-bump"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/next-16.3.6-bump": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/next-16.3.6-bump"
+  ]
+}
